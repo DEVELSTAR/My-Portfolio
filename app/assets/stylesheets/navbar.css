@@ -1,0 +1,30 @@
+nav{
+/*	border: 2px solid red;*/
+	display: flex;
+	justify-content: space-around;
+	padding: 2rem;
+}
+.logo{
+/*	border: 2px solid red;*/
+	font-size: 3rem;
+	display: flex;
+	font-weight: bolder;
+}
+.logo .logo-devel{
+	color: white;
+}
+.logo .logo-star{
+	color: red;
+}
+.nav-links{
+/*	border: 2px solid red;*/
+	display: flex;
+	justify-content: space-between;
+	width: 25%;
+	font-size: 2rem;
+	padding-top: 0.5rem;
+}
+.nav-link{
+	text-decoration: none;
+	color: white;
+}
