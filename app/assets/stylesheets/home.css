@@ -1,5 +1,5 @@
 .home{
-/*	border: 2px solid red;*/
+	border: 5px solid red;
 	height: 90vh;
 }
 .first-box{
@@ -14,7 +14,7 @@
 	width: 50%;
 	height: 100%;
 	color: white;
-	padding: 18% 0;
+	padding: 25% 0;
 	line-height: 5rem;
 }
 .first-box-content div{

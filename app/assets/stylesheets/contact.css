@@ -3,5 +3,18 @@
 	text-align: center;
 	font-size: 3rem;
 	color: white;
-	height: 20vh;
+	padding: 2rem;
+}
+.contact-links{
+	display: flex;
+/*	border: 2px solid red;*/
+	width: 15%;
+	margin: auto;
+	margin-top: 2rem;
+	padding-bottom: 2rem;
+	justify-content: space-around;
+}
+.contact p{
+	font-size: 1rem;
+/*	border: 2px solid red;*/
 }

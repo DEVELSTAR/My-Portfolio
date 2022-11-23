@@ -1,8 +1,8 @@
 .about{
-/*	border: 2px solid red;*/
-	height: 70vh;
+	border: 5px solid red;
+	height: 80vh;
 	display: flex;
-	margin-top: 8rem;
+	margin-top: 15rem;
 }
 .about-img{
 /*	border: 2px solid red;*/
@@ -18,7 +18,7 @@
 	width: 50%;
 	color: white;
 	padding: 2rem;
-	padding-top: 8rem;
+	padding-top: 15rem;
 	background-color: none !important;
 	background-image: url('https://images.unsplash.com/photo-1637511916663-93dd81076890?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjN8fGJsYWNrJTIwdGV4dHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');
 }

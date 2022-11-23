@@ -1,8 +1,8 @@
 .chance{
-/*	border: 2px solid red;*/
+	border: 5px solid red;
 /*	height: 20vh;*/
+    padding: 2rem;
 	text-align: center;
-	margin-top: 4rem;
 }
 .chance-heading{
 /*	border: 2px solid red;*/

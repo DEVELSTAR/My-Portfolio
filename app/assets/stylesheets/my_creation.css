@@ -1,6 +1,8 @@
 .my_creation{
-/*	border: 2px solid red;*/
-	height: 70vh;
+/*	border: 5px solid red;*/
+	height: 75vh;
+	margin-top: 2rem;
+	padding-top: 3rem;
 	background-image: url('https://images.unsplash.com/photo-1507581377444-3ef8aaaa7eff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTd8fGJsYWNrJTIwdGV4dHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');
 }
 .my_creation .heading{

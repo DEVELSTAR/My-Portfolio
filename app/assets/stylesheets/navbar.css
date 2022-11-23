@@ -4,29 +4,40 @@ nav{
 	justify-content: space-between;
 	padding-top: 2rem;
 	width: 80%;
-	margin: auto;
+	position: fixed;
+	margin-left: 10%;
+	background: none;
 }
 .logo{
 /*	border: 2px solid red;*/
 	font-size: 3rem;
 	display: flex;
 	font-weight: bolder;
+	background: none;
+
 }
 .logo .logo-devel{
 	color: white;
+    background: none;
 }
 .logo .logo-star{
 	color: red;
+	background: none;
 }
 .nav-links{
 /*	border: 2px solid red;*/
 	display: flex;
 	justify-content: space-between;
-	width: 25%;
+	width: 35%;
 	font-size: 2rem;
 	padding-top: 0.5rem;
+	background: none;
 }
 .nav-link{
 	text-decoration: none;
 	color: white;
+	background: none;
+}
+.nav-links div{
+	background: none;
 }
