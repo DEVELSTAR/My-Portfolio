@@ -1,8 +1,10 @@
 nav{
 /*	border: 2px solid red;*/
 	display: flex;
-	justify-content: space-around;
-	padding: 2rem;
+	justify-content: space-between;
+	padding-top: 2rem;
+	width: 80%;
+	margin: auto;
 }
 .logo{
 /*	border: 2px solid red;*/

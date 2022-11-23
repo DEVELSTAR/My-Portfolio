@@ -1,0 +1,28 @@
+.my_creation{
+/*	border: 2px solid red;*/
+	height: 70vh;
+	background-image: url('https://images.unsplash.com/photo-1507581377444-3ef8aaaa7eff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTd8fGJsYWNrJTIwdGV4dHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');
+}
+.my_creation .heading{
+	color: white;
+	text-align: center;
+	font-size: 3rem;
+	font-weight: bolder;
+}
+.my_creation .creation{
+/*	border: 2px solid red;*/
+	display: flex;
+	width: 70%;
+	height: 85%;
+	margin: auto;
+	margin-top: 2rem;
+}
+.my_creation .creation .div1{
+/*	border: 2px solid red;*/
+	width: 35%;
+	height: 90%;
+	background-color: #282A3A;
+	margin-left: 2rem;
+	border-radius: 1.5rem;
+    box-shadow: 10px 10px 20px -7px rgba(219,219,219,1);
+}
